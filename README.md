@@ -1,8 +1,8 @@
  Digital Literacy Project
 
  Student Details
-Name: Vanimina Nani
-Registration Number: 25MIM10089
+Name: Vanimina Nani    
+Registration Number: 25MIM10089      
 Branch: INTEGRATED MTECH (Artificial Intelligence)
 Year: 1st Year INTEGRATED MTECH  
 Course Code: CSE0001  

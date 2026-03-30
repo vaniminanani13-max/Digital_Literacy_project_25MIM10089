@@ -1,9 +1,9 @@
  Digital Literacy Project
 
  Student Details
-Name: Borancha Karthika   
-Registration Number: 25MIP10143  
-Branch: INTEGRATED MTECH CSE (COMPUTATIONAL AND DATA SCIENCE) 
+Name: Vanimina Nani
+Registration Number: 25MIM10089
+Branch: INTEGRATED MTECH (Artificial Intelligence)
 Year: 1st Year INTEGRATED MTECH  
 Course Code: CSE0001  
 
